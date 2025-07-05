@@ -1,17 +1,24 @@
-# Deloitte Australia – Data Analytics & Forensic Technology (Forage Virtual Internship)
+# Deloitte Australia – Data Analytics Virtual Internship (Forage)
 
-This repository contains the work completed during the Deloitte Australia Data Analytics virtual internship on Forage. The simulation focused on applying forensic technology and data analytics to identify suspicious transactions and provide business insights through visual dashboards.
+This project was completed as part of the **Deloitte Australia Data Analytics and Forensic Technology Virtual Internship** offered by **Forage**. The tasks simulated a real-world consulting environment where I analyzed client transaction data to detect anomalies and build a business dashboard.
 
-## 📌 Project Highlights
-- Classified financial data and flagged anomalies using Excel
-- Built a Tableau dashboard to communicate patterns and risks
-- Interpreted real-world scenarios involving fraud investigation
+## 🔍 Project Overview
 
-## 🛠 Tools Used
-- Tableau
-- Excel
-- Forensic Analysis
-- Business Intelligence
+- Analyzed financial transaction data using **Excel**  
+- Classified records and flagged suspicious entries  
+- Built a dashboard in **Tableau** to present key trends and insights  
+- Delivered findings in a clear, visual format suitable for business decision-making
 
-## 📄 Certificate
-[Deloitte Completion Certificate (PDF)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_3b2PPD8fbWrrJ7hfQ_1751655869320_completion_certificate.pdf)
+## 🛠 Tools & Technologies
+
+- Excel (for data cleaning, classification)  
+- Tableau (for interactive dashboard and visual storytelling)  
+- Data interpretation & presentation
+
+## 📄 Completion Certificate
+
+[Deloitte Forage Certificate – View PDF](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_3b2PPD8fbWrrJ7hfQ_1751655869320_completion_certificate.pdf)
+
+---
+
+![Tableau Dashboard](tableau_dashboard.png)
